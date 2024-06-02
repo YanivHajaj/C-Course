@@ -1,6 +1,6 @@
 # C Programming Course Repository
 
-This repository contains various C programming examples and exercises from a course, showcasing different concepts from basic operations to complex game simulations.
+This GitHub repository contains a collection of C programming projects from the university course "Introduction to Software Engineering and Computers." Among these, the "Cops and Robbers" game simulation stands out as a feature project. It showcases strategic gameplay, where multiple cops chase a single robber across a configurable grid, demonstrating fundamental programming concepts and logic handling in C. This repository serves as an excellent resource for students and enthusiasts looking to understand the basics of software engineering through practical examples.
 
 ## Programs Included
 
